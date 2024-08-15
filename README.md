@@ -1,5 +1,13 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
+### About Me!
+- Software Analyst at JM Family
+- Graduated from UF with Bachelor's in Computer Science
+- Always open to learning new technologies
+- I enjoy hiking, volleyball, and video games
+
+</br>
+</br>
 <!--
 **JohnLun/JohnLun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
