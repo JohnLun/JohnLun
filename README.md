@@ -3,13 +3,14 @@
 # Hello 👋, I'm Jonathan Lun
 
 
+<img src="https://komarev.com/ghpvc/?username=JohnLun&style=flat-square&color=blue" alt=""/>
 
 [![Linkedin: Jonathan](https://img.shields.io/badge/-Jonathan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.www.linkedin.com/in/jonathan-lun-05b49a213/)](https://www.linkedin.com/in/jonathan-lun-05b49a213/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jonathan.lun23@gmail.com)](mailto:mailjonathan.lun23@gmail.com)
 
 
 ### About Me!
-- Software Analyst at JM Family
+- Software Engineer at JM Family
 - Graduated from UF with Bachelor's in Computer Science
 - Always open to learning new technologies
 - I enjoy hiking, volleyball, and video games
