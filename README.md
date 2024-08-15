@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Profile!)](https://git.io/typing-svg)
 
-# Hello, I'm Jonathan Lun
+# Hello 👋, I'm Jonathan Lun
 
 
 
